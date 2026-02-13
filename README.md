@@ -1,4 +1,4 @@
-# New publications 2025 
+# New publications 2026 
 
 - Research, data, policies, plans, guidelines etc
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
