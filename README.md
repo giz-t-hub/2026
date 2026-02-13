@@ -13,7 +13,7 @@
 - <b> Climate and environment </b>
 - <b> Transport infrastructure </b>
 - <b> Logistics and Trade </b>
-- <b> General </b
+- <b> General </b>
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
 
