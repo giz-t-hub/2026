@@ -19,6 +19,7 @@ Who this is for: Policymakers, practitioners, researchers, and students working 
 - [General](#general)
 
 ## Data and statistics 
+<details>
   - <b> Mobility Database </b> MobilityData: https://mobilitydatabase.org/ - *The Mobility Database is an open data catalog including over 4000 GTFS, GTFS Realtime, and GBFS feeds in over 75 countries. Whether you’re a transportation operator, a researcher studying public transit and shared mobility trends, or a maps app needing reliable data to use with your application, the Mobility Database has everything you need in one central location.*
   - <b> Global transport costs for international trade </b> UNCTAD https://unctadstat.unctad.org/EN/TransportCost.html - *The Trade-and-Transport Dataset has been developed by UNCTAD and the World Bank to leverage details and breakdowns available in countries’ data submissions to UN Comtrade for the measurement of international freight transport alongside the international merchandise trade it enables. Transport costs are revealed by the difference between the CIF and the FOB value recorded in international trade data. The mode of transport has been derived from information collected by customs about the mode by which goods arrive at the national border in combination with global transport network models to identify the main routes used for the shipping and thereby adjust for intermodal transshipment.*
   - <b> A 30-year analysis of active travel behaviour in Canada </b> Bruno Dias dos Santos, Mahdis Maghadasi & Antonio Páez: https://doi.org/10.1016/j.jtrangeo.2026.104561 - *This study aims to provide evidence of the temporal evolution of active travel (AT) behaviour, specifically walking or cycling, in Canadian metropolitan areas. It analysed more than 21,000 AT records representing over 46 million weighted episodes, continuous blocks of time spent on a single main activity, from seven cycles (1992, 1998, 2005, 2010, 2015, and 2022) of the Canadian Time Use Survey (TUS) module of the General Social Survey (GSS).*
@@ -28,6 +29,7 @@ Who this is for: Policymakers, practitioners, researchers, and students working 
   - <b> Liner shipping connectivity index, monthly (analytical) </b> UNCTAD: https://unctadstat.unctad.org/datacentre/dataviewer/US.LSCI_M - *The monthly dataset provides a high-frequency view of how countries and ports are connected to global liner shipping networks—capturing short-term changes that quarterly indicators may miss.*
 
 [↑ Back to contents](#top)
+</details>
 
 ## Urban mobility
   - <b> Urban expansion in the age of liberalism </b> Samuel Hughes: https://worksinprogress.co/issue/urban-expansion-in-the-age-of-liberalism/ - *Many Victorian cities grew by tenfold in a century. Could ours ever do the same?*
