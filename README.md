@@ -13,6 +13,12 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 ## Update cadence
 Updated **monthly** (with occasional mid-month additions when notable publications are released).
 
+## 📅 2025 publications by month
+- **Latest:** [December 2025](./2025/12-december.md)
+- [November 2025](./2025/11-november.md)
+- [October 2025](./2025/10-october.md)
+- [September 2025](./2025/09-september.md)
+- *(earlier months linked as available)*
 
 ### January <a name="January"></a>
 
