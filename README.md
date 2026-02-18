@@ -5,15 +5,10 @@
 - For 2025, please refer to https://github.com/giz-t-hub/2025
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
 
-- A curated public reading list of **new transport and mobility publications** released in 2025.  
-Updated regularly to highlight research, policy, data, and practical guidance worth your time.
+A curated public reading list of **new transport and mobility publications** released in 2025.  Updated regularly to highlight research, policy, data, and practical guidance worth your time.
 
----
-
-## Who this is for
-Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure — especially those who want **signal over noise**.
-
----
+## Who this is for: 
+Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure — especially those who want 
 
 ## Update cadence
 Updated **monthly** (with occasional mid-month additions when notable publications are released).
