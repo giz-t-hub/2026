@@ -8,7 +8,7 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 - For 2025, please refer to https://github.com/giz-t-hub/2025
 - For 2024, please refer to https://github.com/giz-t-hub/2024/ 
 
-Chapters: 
+### January <a name="January"></a>
 
 - [Data and statistics](#data-and-statistics)
 - [Urban Mobility](#urban-mobility)
@@ -17,8 +17,6 @@ Chapters:
 - [Transport Infrastructure](#transport-infrastructur-services)
 - [Logistics & Trade](#logistics-and-trade)
 - [General](#general)
-
-### January <a name="January"></a>
 
 ## Data and statistics 
   - <b> Mobility Database </b> MobilityData: https://mobilitydatabase.org/ - *The Mobility Database is an open data catalog including over 4000 GTFS, GTFS Realtime, and GBFS feeds in over 75 countries. Whether you’re a transportation operator, a researcher studying public transit and shared mobility trends, or a maps app needing reliable data to use with your application, the Mobility Database has everything you need in one central location.*
