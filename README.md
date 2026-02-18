@@ -3,10 +3,7 @@
 A curated public reading list of **new transport and mobility publications** released in 2026.  Updated regularly to highlight research, policy, data, and practical guidance worth your time.
 
 ## Who this is for: 
-Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure — especially those who want 
-
-## Update cadence
-Updated **monthly** (with occasional mid-month additions when notable publications are released).
+Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure. Updated **monthly** (with occasional mid-month additions when notable publications are released).
 
 ## 📅 2026 publications by month
 - **Latest:** [January](./2026/01-January.md)
