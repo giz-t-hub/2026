@@ -8,7 +8,7 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 - For 2025, please refer to https://github.com/giz-t-hub/2025
 - For 2024, please refer to https://github.com/giz-t-hub/2024/ 
 
-### January <a name="January"></a>
+### January 2026 <a name="January"></a>
 
 - [Data and statistics](#data-and-statistics)
 - [Urban Mobility](#urban-mobility)
