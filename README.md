@@ -11,7 +11,7 @@ Updated **monthly** (with occasional mid-month additions when notable publicatio
 ## 📅 2026 publications by month
 - **Latest:** [January](./2026/01-January.md)
 - For 2025, please refer to https://github.com/giz-t-hub/2025
-- For 2024, please refer to https://github.com/giz-t-hub/2024/
+- For 2024, please refer to https://github.com/giz-t-hub/2024/ 
 
 
 ### January <a name="January"></a>
