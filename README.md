@@ -1,11 +1,6 @@
 # New publications 2026 
 
-- Research, data, policies, plans, guidelines etc
-- Any comments or suggestions? Contact: Armin.Wagner@giz.de
-- For 2025, please refer to https://github.com/giz-t-hub/2025
-- For 2024, please refer to https://github.com/giz-t-hub/2024/
-
-A curated public reading list of **new transport and mobility publications** released in 2025.  Updated regularly to highlight research, policy, data, and practical guidance worth your time.
+A curated public reading list of **new transport and mobility publications** released in 2026.  Updated regularly to highlight research, policy, data, and practical guidance worth your time.
 
 ## Who this is for: 
 Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure — especially those who want 
@@ -13,12 +8,11 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 ## Update cadence
 Updated **monthly** (with occasional mid-month additions when notable publications are released).
 
-## 📅 2025 publications by month
-- **Latest:** [December 2025](./2025/12-december.md)
-- [November 2025](./2025/11-november.md)
-- [October 2025](./2025/10-october.md)
-- [September 2025](./2025/09-september.md)
-- *(earlier months linked as available)*
+## 📅 2026 publications by month
+- **Latest:** [January](./2026/01-January.md)
+- For 2025, please refer to https://github.com/giz-t-hub/2025
+- For 2024, please refer to https://github.com/giz-t-hub/2024/
+
 
 ### January <a name="January"></a>
 
