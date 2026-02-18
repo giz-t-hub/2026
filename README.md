@@ -8,12 +8,14 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 - For 2025, please refer to https://github.com/giz-t-hub/2025
 - For 2024, please refer to https://github.com/giz-t-hub/2024/ 
 
+Chapters: 
+
 - [Data and statistics](#data-and-statistics)
 - [Urban Mobility](#urban-mobility)
 - [Climate & Environment](#climate-and-environment)
+- [Social issues](#social-issues)
 - [Transport Infrastructure](#transport-infrastructur-services)
 - [Logistics & Trade](#logistics-and-trade)
-- [Social issues](#social-and-equity)
 - [General](#general)
 
 ### January <a name="January"></a>
