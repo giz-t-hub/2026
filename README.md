@@ -10,10 +10,10 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 
 - [Data and statistics](#data-and-statistics)
 - [Urban Mobility](#urban-mobility)
-- [Climate & Environment](#climate--environment)
-- [Transport Infrastructure](#transport-infrastructure)
-- [Logistics & Trade](#logistics--trade)
-- [Social issues](#social--equity)
+- [Climate & Environment](#climate-and-environment)
+- [Transport Infrastructure](#transport-infrastructur-services)
+- [Logistics & Trade](#logistics-and-trade)
+- [Social issues](#social-and-equity)
 - [General](#general)
 
 ### January <a name="January"></a>
