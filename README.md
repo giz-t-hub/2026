@@ -9,6 +9,7 @@ Policymakers, practitioners, researchers, and students working on transport, urb
 - For 2024, please refer to https://github.com/giz-t-hub/2024/ 
 
 ### January 2026 <a name="January"></a>
+<a id="top"></a>
 
 - [Data and statistics](#data-and-statistics)
 - [Urban Mobility](#urban-mobility)
@@ -26,6 +27,8 @@ Policymakers, practitioners, researchers, and students working on transport, urb
   - <b> EV NDC World Map </b> Agora Verkehrswende: https://www.agora-verkehrswende.org/publications/ev-ndc-world-map - *Interactive map of global ambition to adopt electric vehicles (EVs) based on the Nationally Determined Contributions (NDCs) of Paris Agreement signatories.*
   - <b> Ireland: Inventory of Transport Models </b> NTA: https://www.nationaltransport.ie/planning-and-investment/transport-modelling/model-service-bureau/inventory-of-transport-models/ - *The NTA has created an Inventory of Transport Models which aims to map, collate, and make available Local Area Models (LAMs), Micro-simulation and Junction Models developed as part of publicly funded transport projects across the Republic of Ireland.*
   - <b> Liner shipping connectivity index, monthly (analytical) </b> UNCTAD: https://unctadstat.unctad.org/datacentre/dataviewer/US.LSCI_M - *The monthly dataset provides a high-frequency view of how countries and ports are connected to global liner shipping networks—capturing short-term changes that quarterly indicators may miss.*
+
+[↑ Back to contents](#top)
 
 ## Urban mobility
   - <b> Urban expansion in the age of liberalism </b> Samuel Hughes: https://worksinprogress.co/issue/urban-expansion-in-the-age-of-liberalism/ - *Many Victorian cities grew by tenfold in a century. Could ours ever do the same?*
